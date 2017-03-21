@@ -1,0 +1,5 @@
+## Ignore Data Files
+*.dat
+
+# Ignore results folder
+results/
